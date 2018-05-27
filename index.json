@@ -1,22 +1,22 @@
 [
 {
-	"uri": "/categories/",
+	"uri": "https://darriuswrightgd.github.io/wright-docs/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "/tags/",
+	"uri": "https://darriuswrightgd.github.io/wright-docs/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "/",
+	"uri": "https://darriuswrightgd.github.io/wright-docs/",
 	"title": "Wright Docs",
 	"tags": [],
-	"description": "",
-	"content": ""
+	"description": "Documentation of all development findings.",
+	"content": "Document all of the developer things!\n"
 }]
