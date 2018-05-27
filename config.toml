@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://darriuswrightgd.github.io/wright-docs/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
@@ -28,7 +28,7 @@ enableMissingTranslationPlaceholders = false
 
 
 [params]
-editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
+editURL = "https://github.com/DarriusWrightGD/wright-docs/edit/master/content/"
 showVisitedLinks = true # default is false
 themeStyle = "flex" # "original" or "flex" # default "flex"
 themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
